@@ -1,0 +1,6 @@
+{
+  "name": "Supermercado Gestão - Estoque e Vendas",
+  "description": "Sistema completo de controle de estoque, frente de caixa/PDV e dashboard analítico para supermercados integrado ao Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
